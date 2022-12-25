@@ -135,6 +135,10 @@
 <p><a href="https://gitlab.com/weng.kuo.bian.gan041663/vdmhsf-425/raw/master/public/mhsf-425.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧十方】425万人上访：“围攻”与真相-4a154b?logo=youtube%20tv" title="【明慧十方】425万人上访：“围攻”与真相　　　　　　　　　" alt="【明慧十方】425万人上访：“围攻”与真相　　　　　　　　　"></a></p>
 <p><a href="https://gitlab.com/zha.da.lia.tan716293/vdmhsf-organharvest/raw/master/public/mhsf-organharvest.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧十方】中共活摘器官是真的吗-4a154b?logo=youtube%20tv" title="【明慧十方】中共活摘器官是真的吗　　　　　　　　　" alt="【明慧十方】中共活摘器官是真的吗　　　　　　　　　"></a></p>
 <p><a href="https://gitlab.com/shun.mao.piao894/vdmhsf-1400case/raw/master/public/mhsf-1400case.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧十方】被重复了一千遍的“1400例"-4a154b?logo=youtube%20tv" title="【明慧十方】被重复了一千遍的“1400例"　　　　　　　　　" alt="【明慧十方】被重复了一千遍的“1400例“　　　　　　　　　"></a></p>
+<p><a href="https://gitlab.com/zha.da.lia.tan716293/vdmhsf-organharvest/raw/master/public/mhsf-organharvest.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧十方】中共活摘器官是真的吗-4a154b?logo=youtube%20tv" title="【明慧十方】中共活摘器官是真的吗　　　　　　　　　" alt="【明慧十方】中共活摘器官是真的吗　　　　　　　　　"></a></p>
+<p><a href="https://gitlab.com/shun.mao.piao894/vdmhsf-1400case/raw/master/public/mhsf-1400case.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧十方】被重复了一千遍的“1400例"-4a154b?logo=youtube%20tv" title="【明慧十方】被重复了一千遍的“1400例"　　　　　　　　　" alt="【明慧十方】被重复了一千遍的“1400例“　　　　　　　　　"></a></p>
+<p><a href="https://gitlab.com/szggma732/vdmhsf-hqxdsy2/raw/master/public/mhsf-hqxdsy2.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/【明慧十方】红旗下的誓言：我们未被告知的秘密-4a154b?logo=youtube%20tv" title="【明慧十方】红旗下的誓言：我们未被告知的秘密　　　　　　　　　" alt="【明慧十方】红旗下的誓言：我们未被告知的秘密　　　　　　　　　"></a></p>
+<p><a href="https://gitlab.com/tan4878326/vdtimesofcrisis2/raw/master/public/TimesOfCrisis2.webm" target="_blank"><img width="400" height="50" src="https://img.shields.io/badge/微电影-危难时刻-4a154b?logo=youtube%20tv" title="微电影-危难时刻　　　　　　　　　" alt="微电影-危难时刻　　　　　　　　　"></a></p>
 
 
 
